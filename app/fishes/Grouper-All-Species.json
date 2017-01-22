@@ -1,0 +1,12 @@
+{
+    "id": "Grouper-All-Species",
+    "name": "Grouper (All Species)",
+    "mean": 0.448,
+    "median": "0.399",
+    "stdev": "0.278",
+    "min": "0.006",
+    "max": 1.205,
+    "num": 53,
+    "source": "FDA 1991-2005",
+    "mercury": 0
+}

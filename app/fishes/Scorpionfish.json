@@ -1,0 +1,12 @@
+{
+    "id": "Scorpionfish",
+    "name": "Scorpionfish",
+    "mean": 0.233,
+    "median": "0.181",
+    "stdev": "0.139",
+    "min": "0.098",
+    "max": 0.456,
+    "num": 6,
+    "source": "FDA 2006-2007",
+    "mercury": 0
+}

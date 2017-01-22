@@ -1,0 +1,12 @@
+{
+    "id": "Carp",
+    "name": "Carp",
+    "mean": 0.11,
+    "median": "0.134",
+    "stdev": "0.237",
+    "min": "ND",
+    "max": 0.271,
+    "num": 14,
+    "source": "FDA 1992-2007",
+    "mercury": 2
+}

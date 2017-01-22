@@ -1,0 +1,12 @@
+{
+    "id": "Cod",
+    "name": "Cod",
+    "mean": 0.111,
+    "median": "0.066",
+    "stdev": "0.152",
+    "min": "ND",
+    "max": 0.989,
+    "num": 115,
+    "source": "FDA 1991-2010",
+    "mercury": 1
+}

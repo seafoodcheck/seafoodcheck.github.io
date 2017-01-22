@@ -1,0 +1,12 @@
+{
+    "id": "Monkfish",
+    "name": "Monkfish",
+    "mean": 0.161,
+    "median": "0.139",
+    "stdev": "0.095",
+    "min": "ND",
+    "max": 0.289,
+    "num": 11,
+    "source": "FDA 1994-2007",
+    "mercury": 2
+}

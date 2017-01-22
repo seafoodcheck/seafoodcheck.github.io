@@ -1,0 +1,12 @@
+{
+    "id": "Mackerel-Spanish-Gulf-Of-Mexico",
+    "name": "Mackerel Spanish (Gulf Of Mexico)",
+    "mean": 0.454,
+    "median": "N/A",
+    "stdev": "N/A",
+    "min": "0.07",
+    "max": 1.56,
+    "num": 66,
+    "source": "NMFS REPORT 1978",
+    "mercury": 1
+}

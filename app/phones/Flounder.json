@@ -1,0 +1,8 @@
+{
+    "id": "Flounder",
+    "name": "Flounder",
+    "images": [
+        "img/fish/Flounder.jpg"
+    ],
+    "mercury": 2
+}

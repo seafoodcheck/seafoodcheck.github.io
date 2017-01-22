@@ -1,0 +1,12 @@
+{
+    "id": "Swordfish",
+    "name": "Swordfish",
+    "mean": 0.995,
+    "median": "0.87",
+    "stdev": "0.539",
+    "min": "ND",
+    "max": 3.22,
+    "num": 636,
+    "source": "FDA 1990-2010",
+    "mercury": 2
+}

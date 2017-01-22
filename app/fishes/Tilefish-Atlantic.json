@@ -1,0 +1,12 @@
+{
+    "id": "Tilefish-Atlantic",
+    "name": "Tilefish (Atlantic)",
+    "mean": 0.144,
+    "median": "0.099",
+    "stdev": "0.122",
+    "min": "0.042",
+    "max": 0.533,
+    "num": 32,
+    "source": "FDA 1994-2004",
+    "mercury": 2
+}

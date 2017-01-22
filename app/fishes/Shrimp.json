@@ -1,0 +1,12 @@
+{
+    "id": "Shrimp",
+    "name": "Shrimp",
+    "mean": 0.009,
+    "median": "0.001",
+    "stdev": "0.013",
+    "min": "ND",
+    "max": 0.05,
+    "num": 40,
+    "source": "FDA 1991-2009",
+    "mercury": 0
+}

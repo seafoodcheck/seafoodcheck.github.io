@@ -1,0 +1,12 @@
+{
+    "id": "Shad",
+    "name": "Shad",
+    "mean": 0.038,
+    "median": "0.033",
+    "stdev": "0.045",
+    "min": "ND",
+    "max": 0.186,
+    "num": 15,
+    "source": "FDA 2007-2011",
+    "mercury": 2
+}

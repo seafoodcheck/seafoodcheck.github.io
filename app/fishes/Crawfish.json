@@ -1,0 +1,12 @@
+{
+    "id": "Crawfish",
+    "name": "Crawfish",
+    "mean": 0.033,
+    "median": "0.035",
+    "stdev": "0.012",
+    "min": "ND",
+    "max": 0.051,
+    "num": 46,
+    "source": "FDA 1991-2007",
+    "mercury": 0
+}

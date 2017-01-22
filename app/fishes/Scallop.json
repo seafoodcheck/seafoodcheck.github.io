@@ -1,0 +1,12 @@
+{
+    "id": "Scallop",
+    "name": "Scallop",
+    "mean": 0.003,
+    "median": "ND",
+    "stdev": "0.007",
+    "min": "ND",
+    "max": 0.033,
+    "num": 39,
+    "source": "FDA 1991-2009",
+    "mercury": 0
+}

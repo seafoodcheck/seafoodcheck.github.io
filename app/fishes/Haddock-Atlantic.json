@@ -1,0 +1,12 @@
+{
+    "id": "Haddock-Atlantic",
+    "name": "Haddock (Atlantic)",
+    "mean": 0.055,
+    "median": "0.049",
+    "stdev": "0.033",
+    "min": "ND",
+    "max": 0.197,
+    "num": 50,
+    "source": "FDA 1991-2009",
+    "mercury": 1
+}

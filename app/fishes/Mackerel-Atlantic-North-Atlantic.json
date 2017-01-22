@@ -1,0 +1,12 @@
+{
+    "id": "Mackerel-Atlantic-North-Atlantic",
+    "name": "Mackerel Atlantic (North Atlantic)",
+    "mean": 0.05,
+    "median": "N/A",
+    "stdev": "N/A",
+    "min": "0.02",
+    "max": 0.16,
+    "num": 80,
+    "source": "NMFS REPORT 1978",
+    "mercury": 0
+}

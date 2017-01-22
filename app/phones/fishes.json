@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Bass (Saltwater, Black, Striped)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Bass (Saltwater, Black, Striped).jpg",
+        "id": "Bass-Saltwater-Black-Striped"
+    },
+    {
+        "name": "Buffalofish",
+        "mercury": 2,
+        "imageUrl": "img/fish/Buffalofish.jpg",
+        "id": "Buffalofish"
+    },
+    {
+        "name": "Butterfish",
+        "mercury": 2,
+        "imageUrl": "img/fish/Butterfish.jpg",
+        "id": "Butterfish"
+    },
+    {
+        "name": "Carp",
+        "mercury": 0,
+        "imageUrl": "img/fish/Carp.jpg",
+        "id": "Carp"
+    },
+    {
+        "name": "Chilean Seabass (Patagonian toothfish)",
+        "mercury": 2,
+        "imageUrl": "img/fish/Chilean Seabass (Patagonian toothfish).jpg",
+        "id": "Chilean-Seabass-Patagonian-toothfish"
+    },
+    {
+        "name": "Clam",
+        "mercury": 2,
+        "imageUrl": "img/fish/Clam.jpg",
+        "id": "Clam"
+    },
+    {
+        "name": "Cod (Alaskan)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Cod (Alaskan).jpg",
+        "id": "Cod-Alaskan"
+    },
+    {
+        "name": "Crab (Blue, King, Snow)",
+        "mercury": 2,
+        "imageUrl": "img/fish/Crab (Blue, King, Snow).jpg",
+        "id": "Crab-Blue-King-Snow"
+    },
+    {
+        "name": "Croaker (White Pacific)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Croaker (White Pacific).jpg",
+        "id": "Croaker-White-Pacific"
+    },
+    {
+        "name": "Flounder",
+        "mercury": 2,
+        "imageUrl": "img/fish/Flounder.jpg",
+        "id": "Flounder"
+    },
+    {
+        "name": "Grouper",
+        "mercury": 0,
+        "imageUrl": "img/fish/Grouper.jpg",
+        "id": "Grouper"
+    },
+    {
+        "name": "Haddock (Atlantic)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Haddock (Atlantic).jpg",
+        "id": "Haddock-Atlantic"
+    },
+    {
+        "name": "Halibut (Pacific)",
+        "mercury": 2,
+        "imageUrl": "img/fish/Halibut (Pacific).jpg",
+        "id": "Halibut-Pacific"
+    },
+    {
+        "name": "Halibut",
+        "mercury": 0,
+        "imageUrl": "img/fish/Halibut.jpg",
+        "id": "Halibut"
+    },
+    {
+        "name": "Herring",
+        "mercury": 0,
+        "imageUrl": "img/fish/Herring.jpg",
+        "id": "Herring"
+    },
+    {
+        "name": "Jacksmelt (Silverside)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Jacksmelt (Silverside).jpg",
+        "id": "Jacksmelt-Silverside"
+    },
+    {
+        "name": "Lobster (Northern American)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Lobster (Northern American).jpg",
+        "id": "Lobster-Northern-American"
+    },
+    {
+        "name": "Lobster (Spiny)",
+        "mercury": 2,
+        "imageUrl": "img/fish/Lobster (Spiny).jpg",
+        "id": "Lobster-Spiny"
+    },
+    {
+        "name": "Mackerel Spanish (Gulf of Mexico)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Mackerel Spanish (Gulf of Mexico).jpg",
+        "id": "Mackerel-Spanish-Gulf-of-Mexico"
+    },
+    {
+        "name": "Mahi Mahi",
+        "mercury": 2,
+        "imageUrl": "img/fish/Mahi Mahi.jpg",
+        "id": "Mahi-Mahi"
+    },
+    {
+        "name": "Monkfish",
+        "mercury": 2,
+        "imageUrl": "img/fish/Monkfish.jpg",
+        "id": "Monkfish"
+    },
+    {
+        "name": "Mullet",
+        "mercury": 2,
+        "imageUrl": "img/fish/Mullet.jpg",
+        "id": "Mullet"
+    },
+    {
+        "name": "Oyster",
+        "mercury": 0,
+        "imageUrl": "img/fish/Oyster.jpg",
+        "id": "Oyster"
+    },
+    {
+        "name": "Perch (Ocean)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Perch (Ocean).jpg",
+        "id": "Perch-Ocean"
+    },
+    {
+        "name": "Plaice",
+        "mercury": 0,
+        "imageUrl": "img/fish/Plaice.jpg",
+        "id": "Plaice"
+    },
+    {
+        "name": "Pollock",
+        "mercury": 0,
+        "imageUrl": "img/fish/Pollock.jpg",
+        "id": "Pollock"
+    },
+    {
+        "name": "Sablefish",
+        "mercury": 1,
+        "imageUrl": "img/fish/Sablefish.jpg",
+        "id": "Sablefish"
+    },
+    {
+        "name": "Salmon (Canned)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Salmon (Canned).jpg",
+        "id": "Salmon-Canned"
+    },
+    {
+        "name": "Salmon (Fresh)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Salmon (Fresh).jpg",
+        "id": "Salmon-Fresh"
+    },
+    {
+        "name": "Scallop",
+        "mercury": 2,
+        "imageUrl": "img/fish/Scallop.jpg",
+        "id": "Scallop"
+    },
+    {
+        "name": "Scorpionfish",
+        "mercury": 1,
+        "imageUrl": "img/fish/Scorpionfish.jpg",
+        "id": "Scorpionfish"
+    },
+    {
+        "name": "Shad (American)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Shad (American).jpg",
+        "id": "Shad-American"
+    },
+    {
+        "name": "Sheepshead",
+        "mercury": 2,
+        "imageUrl": "img/fish/Sheepshead.jpg",
+        "id": "Sheepshead"
+    },
+    {
+        "name": "Shrimp",
+        "mercury": 1,
+        "imageUrl": "img/fish/Shrimp.jpg",
+        "id": "Shrimp"
+    },
+    {
+        "name": "Skate",
+        "mercury": 0,
+        "imageUrl": "img/fish/Skate.jpg",
+        "id": "Skate"
+    },
+    {
+        "name": "Snapper",
+        "mercury": 2,
+        "imageUrl": "img/fish/Snapper.jpg",
+        "id": "Snapper"
+    },
+    {
+        "name": "Sole (Pacific)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Sole (Pacific).jpg",
+        "id": "Sole-Pacific"
+    },
+    {
+        "name": "Swordfish",
+        "mercury": 2,
+        "imageUrl": "img/fish/Swordfish.jpg",
+        "id": "Swordfish"
+    },
+    {
+        "name": "Tilefish (Gulf of Mexico)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Tilefish (Gulf of Mexico).jpg",
+        "id": "Tilefish-Gulf-of-Mexico"
+    },
+    {
+        "name": "Trout (Freshwater)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Trout (Freshwater).jpg",
+        "id": "Trout-Freshwater"
+    },
+    {
+        "name": "Tuna (Bigeye, Ahi)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Tuna (Bigeye, Ahi).jpg",
+        "id": "Tuna-Bigeye-Ahi"
+    },
+    {
+        "name": "Tuna (Canned Albacore)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Tuna (Canned Albacore).jpg",
+        "id": "Tuna-Canned-Albacore"
+    },
+    {
+        "name": "Tuna (Canned chunk light)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Tuna (Canned chunk light).jpg",
+        "id": "Tuna-Canned-chunk-light"
+    },
+    {
+        "name": "Tuna (Skipjack)",
+        "mercury": 2,
+        "imageUrl": "img/fish/Tuna (Skipjack).jpg",
+        "id": "Tuna-Skipjack"
+    },
+    {
+        "name": "Tuna (Yellowfin)",
+        "mercury": 0,
+        "imageUrl": "img/fish/Tuna (Yellowfin).jpg",
+        "id": "Tuna-Yellowfin"
+    },
+    {
+        "name": "Weakfish (Sea Trout)",
+        "mercury": 1,
+        "imageUrl": "img/fish/Weakfish (Sea Trout).jpg",
+        "id": "Weakfish-Sea-Trout"
+    },
+    {
+        "name": "Whitefish",
+        "mercury": 1,
+        "imageUrl": "img/fish/Whitefish.jpg",
+        "id": "Whitefish"
+    },
+    {
+        "name": "Whiting",
+        "mercury": 0,
+        "imageUrl": "img/fish/Whiting.jpg",
+        "id": "Whiting"
+    }
+]

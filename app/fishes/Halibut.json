@@ -1,0 +1,12 @@
+{
+    "id": "Halibut",
+    "name": "Halibut",
+    "mean": 0.241,
+    "median": "0.188",
+    "stdev": "0.225",
+    "min": "ND",
+    "max": 1.52,
+    "num": 101,
+    "source": "FDA 1992-2009",
+    "mercury": 1
+}

@@ -1,0 +1,12 @@
+{
+    "id": "Tuna-Fresh-frozen-Albacore",
+    "name": "Tuna (Fresh/frozen, Albacore)",
+    "mean": 0.358,
+    "median": "0.36",
+    "stdev": "0.138",
+    "min": "ND",
+    "max": 0.82,
+    "num": 43,
+    "source": "FDA 1992-2008",
+    "mercury": 0
+}

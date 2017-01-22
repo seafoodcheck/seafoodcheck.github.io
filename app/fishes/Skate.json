@@ -1,0 +1,12 @@
+{
+    "id": "Skate",
+    "name": "Skate",
+    "mean": 0.137,
+    "median": "N/A",
+    "stdev": "N/A",
+    "min": "0.04",
+    "max": 0.36,
+    "num": 56,
+    "source": "NMFS REPORT 1978",
+    "mercury": 2
+}

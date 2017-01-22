@@ -1,0 +1,12 @@
+{
+    "id": "Bluefish",
+    "name": "Bluefish",
+    "mean": 0.368,
+    "median": "0.305",
+    "stdev": "0.221",
+    "min": "0.089",
+    "max": 1.452,
+    "num": 94,
+    "source": "FDA 1991-2009",
+    "mercury": 2
+}

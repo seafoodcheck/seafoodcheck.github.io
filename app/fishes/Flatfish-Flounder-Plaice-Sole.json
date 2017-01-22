@@ -1,0 +1,12 @@
+{
+    "id": "Flatfish-Flounder-Plaice-Sole",
+    "name": "Flatfish (Flounder, Plaice, Sole)",
+    "mean": 0.056,
+    "median": "0.05",
+    "stdev": "0.045",
+    "min": "ND",
+    "max": 0.218,
+    "num": 71,
+    "source": "FDA 1991-2009",
+    "mercury": 1
+}

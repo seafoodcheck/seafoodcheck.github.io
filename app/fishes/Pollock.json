@@ -1,0 +1,12 @@
+{
+    "id": "Pollock",
+    "name": "Pollock",
+    "mean": 0.031,
+    "median": "0.003",
+    "stdev": "0.089",
+    "min": "ND",
+    "max": 0.78,
+    "num": 95,
+    "source": "FDA 1991-2008",
+    "mercury": 1
+}

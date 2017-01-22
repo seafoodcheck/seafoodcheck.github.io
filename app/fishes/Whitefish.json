@@ -1,0 +1,12 @@
+{
+    "id": "Whitefish",
+    "name": "Whitefish",
+    "mean": 0.089,
+    "median": "0.067",
+    "stdev": "0.084",
+    "min": "ND",
+    "max": 0.317,
+    "num": 37,
+    "source": "FDA 1991-2008",
+    "mercury": 2
+}

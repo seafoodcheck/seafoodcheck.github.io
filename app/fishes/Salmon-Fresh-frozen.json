@@ -1,0 +1,12 @@
+{
+    "id": "Salmon-Fresh-frozen",
+    "name": "Salmon (Fresh/frozen)",
+    "mean": 0.022,
+    "median": "0.015",
+    "stdev": "0.034",
+    "min": "ND",
+    "max": 0.19,
+    "num": 94,
+    "source": "FDA 1991-2009",
+    "mercury": 2
+}

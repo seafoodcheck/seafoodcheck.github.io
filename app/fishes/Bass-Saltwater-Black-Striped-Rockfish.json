@@ -1,0 +1,12 @@
+{
+    "id": "Bass-Saltwater-Black-Striped-Rockfish",
+    "name": "Bass (Saltwater, Black, Striped, Rockfish)",
+    "mean": 0.167,
+    "median": "0.094",
+    "stdev": "0.194",
+    "min": "ND",
+    "max": 0.96,
+    "num": 101,
+    "source": "FDA 1991-2010",
+    "mercury": 0
+}

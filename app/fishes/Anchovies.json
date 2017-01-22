@@ -1,0 +1,12 @@
+{
+    "id": "Anchovies",
+    "name": "Anchovies",
+    "mean": 0.016,
+    "median": "0.011",
+    "stdev": "0.015",
+    "min": "ND",
+    "max": 0.049,
+    "num": 15,
+    "source": "FDA 2007-2009",
+    "mercury": 1
+}

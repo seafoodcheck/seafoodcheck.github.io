@@ -1,0 +1,12 @@
+{
+    "id": "Trout-Freshwater",
+    "name": "Trout (Freshwater)",
+    "mean": 0.071,
+    "median": "0.025",
+    "stdev": "0.141",
+    "min": "ND",
+    "max": 0.678,
+    "num": 35,
+    "source": "FDA 1991-2008",
+    "mercury": 0
+}

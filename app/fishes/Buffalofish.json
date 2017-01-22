@@ -1,0 +1,12 @@
+{
+    "id": "Buffalofish",
+    "name": "Buffalofish",
+    "mean": 0.137,
+    "median": "0.12",
+    "stdev": "0.094",
+    "min": "0.032",
+    "max": 0.43,
+    "num": 17,
+    "source": "FDA 1992-2008",
+    "mercury": 1
+}

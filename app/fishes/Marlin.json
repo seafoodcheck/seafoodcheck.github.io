@@ -1,0 +1,12 @@
+{
+    "id": "Marlin",
+    "name": "Marlin",
+    "mean": 0.485,
+    "median": "0.39",
+    "stdev": "0.237",
+    "min": "0.1",
+    "max": 0.92,
+    "num": 16,
+    "source": "FDA 1992-1996",
+    "mercury": 1
+}

@@ -1,0 +1,12 @@
+{
+    "id": "Mahi-Mahi",
+    "name": "Mahi Mahi",
+    "mean": 0.178,
+    "median": "0.18",
+    "stdev": "0.103",
+    "min": "ND",
+    "max": 0.45,
+    "num": 29,
+    "source": "FDA 1991-2005",
+    "mercury": 1
+}

@@ -1,0 +1,12 @@
+{
+    "id": "Tuna-Canned-Light",
+    "name": "Tuna (Canned, Light)",
+    "mean": 0.126,
+    "median": "0.077",
+    "stdev": "0.134",
+    "min": "ND",
+    "max": 0.889,
+    "num": 545,
+    "source": "FDA 1991-2010",
+    "mercury": 1
+}

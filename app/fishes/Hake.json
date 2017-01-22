@@ -1,0 +1,12 @@
+{
+    "id": "Hake",
+    "name": "Hake",
+    "mean": 0.079,
+    "median": "0.067",
+    "stdev": "0.064",
+    "min": "ND",
+    "max": 0.378,
+    "num": 49,
+    "source": "FDA 1994-2009",
+    "mercury": 2
+}
