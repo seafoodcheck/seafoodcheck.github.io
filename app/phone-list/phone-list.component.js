@@ -8,7 +8,7 @@ angular.
     controller: ['Phone',
       function PhoneListController(Phone) {
         this.phones = Phone.query();
-        this.orderProp = 'mercury';
+        this.orderProp = 'name';
       }
     ]
   });

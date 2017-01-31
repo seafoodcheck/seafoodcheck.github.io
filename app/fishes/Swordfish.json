@@ -8,5 +8,8 @@
     "max": 3.22,
     "num": 636,
     "source": "FDA 1990-2010",
-    "mercury": 2
+    "mercury": 3,
+    "images": [
+        "img/fish/Swordfish.jpg"
+    ]
 }

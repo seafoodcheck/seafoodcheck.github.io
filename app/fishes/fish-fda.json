@@ -20,7 +20,7 @@
    "source": "FDA 1991-2010"
  },
  {
-   "name": "BASS CHILEAN",
+   "name": "BASS CHILEAN (CHILEAN SEABASS)",
    "mean": 0.354,
    "median": "0.303",
    "stdev": "0.299",
@@ -210,7 +210,7 @@
    "source": "FDA 1997-2007"
  },
  {
-   "name": "LOBSTER (NORTHERN / AMERICAN)",
+   "name": "LOBSTER (NORTHERN AMERICAN)",
    "mean": 0.107,
    "median": "0.086",
    "stdev": "0.076",
@@ -360,7 +360,7 @@
    "source": "FDA 1991-2007"
  },
  {
-   "name": "PERCH OCEAN",
+   "name": "PERCH (OCEAN)",
    "mean": 0.121,
    "median": "0.102",
    "stdev": "0.125",
@@ -410,7 +410,7 @@
    "source": "FDA 1993-2009"
  },
  {
-   "name": "SALMON (FRESH/FROZEN)",
+   "name": "SALMON (FRESH, FROZEN)",
    "mean": 0.022,
    "median": "0.015",
    "stdev": "0.034",
@@ -590,7 +590,7 @@
    "source": "FDA 1991-2010"
  },
  {
-   "name": "TUNA (FRESH/FROZEN, ALBACORE)",
+   "name": "TUNA (FRESH, FROZEN, ALBACORE)",
    "mean": 0.358,
    "median": "0.36",
    "stdev": "0.138",
@@ -600,7 +600,7 @@
    "source": "FDA 1992-2008"
  },
  {
-   "name": "TUNA (FRESH/FROZEN, ALL)",
+   "name": "TUNA (FRESH, FROZEN, ALL)",
    "mean": 0.386,
    "median": "0.34",
    "stdev": "0.265",
@@ -610,7 +610,7 @@
    "source": "FDA 1991-2010"
  },
  {
-   "name": "TUNA (FRESH/FROZEN, BIGEYE)",
+   "name": "TUNA (FRESH, FROZEN, BIGEYE)",
    "mean": 0.689,
    "median": "0.56",
    "stdev": "0.341",
@@ -620,7 +620,7 @@
    "source": "FDA 1993-2005"
  },
  {
-   "name": "TUNA (FRESH/FROZEN, SKIPJACK)",
+   "name": "TUNA (FRESH, FROZEN, SKIPJACK)",
    "mean": 0.144,
    "median": "0.15",
    "stdev": "0.119",
@@ -630,7 +630,7 @@
    "source": "FDA 1993-2007"
  },
  {
-   "name": "TUNA (FRESH/FROZEN, Species Unknown)",
+   "name": "TUNA (FRESH, FROZEN, Species Unknown)",
    "mean": 0.41,
    "median": "0.334",
    "stdev": "0.308",
@@ -640,7 +640,7 @@
    "source": "FDA 1991-2010"
  },
  {
-   "name": "TUNA (FRESH/FROZEN, YELLOWFIN)",
+   "name": "TUNA (FRESH, FROZEN, YELLOWFIN)",
    "mean": 0.354,
    "median": "0.311",
    "stdev": "0.231",

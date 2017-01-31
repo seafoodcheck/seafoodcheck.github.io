@@ -8,5 +8,8 @@
     "max": 0.07,
     "num": 36,
     "source": "FDA 2005-2009",
-    "mercury": 2
+    "mercury": 0,
+    "images": [
+        "img/fish/Squid.jpg"
+    ]
 }

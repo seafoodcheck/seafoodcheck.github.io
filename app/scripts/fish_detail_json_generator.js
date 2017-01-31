@@ -40,7 +40,23 @@ function spacesToLispCase(filename) {
   return filename.match(/\w+/g).join('-')
 }
 
-fs.writeFile('./phones.json', '', function(){console.log('done')})
+function mercuryLevel(value) {
+  // given a mean mercury level value in PPM from FDA, translate to 0 to 3
+  // Least mercury: Less than 0.09 parts per million (PPM)
+  // Moderate mercury: From 0.09 to 0.29 PPM
+  // High mercury: From 0.3 to 0.49 PPM
+  // Highest mercury: More than .5 PPM
+  // source NRDC http://web.archive.org/web/20150629095601/http://www.nrdc.org/health/effects/mercury/index.asp
+  if (value < 0.09) {
+    return 0;
+  } else if (value < 0.3) {
+    return 1;
+  } else if (value < 0.5) {
+    return 2;
+  } else {
+    return 3;
+  }
+}
 
 // fs.readdirAsync('../img/fish').then(function (filenames){
 //   filenames = filenames.filter(isImgFile);
@@ -61,7 +77,7 @@ fs.writeFile('./phones.json', '', function(){console.log('done')})
 //   });
 // })
 
-getFile('./fish-fda.json').then(function (contents) {
+getFile('fishes/fish-fda.json').then(function (contents) {
   var fishes = JSON.parse(contents);
   fishes.forEach(function (fish) {
     var fishTitle = toTitleCase(fish["name"]);
@@ -77,9 +93,12 @@ getFile('./fish-fda.json').then(function (contents) {
                         "max": fish["max"],
                         "num": fish["num"],
                         "source": fish["source"],
-                        "mercury": Math.floor(Math.random() * 3)
+                        "mercury": mercuryLevel(fish["mean"]),
+                        "images": [
+                            "img/fish/" + fishTitle + ".jpg"
+                        ],
                       };
-    fs.writeFile(filenameLispCase + '.json', JSON.stringify(fishDataFile, null, 4), function(err) {
+    fs.writeFile('fishes/' + filenameLispCase + '.json', JSON.stringify(fishDataFile, null, 4), function(err) {
         if(err) {
           return console.log(err);
         }

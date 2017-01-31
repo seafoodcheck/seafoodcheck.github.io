@@ -8,5 +8,8 @@
     "max": 1.452,
     "num": 94,
     "source": "FDA 1991-2009",
-    "mercury": 2
+    "mercury": 2,
+    "images": [
+        "img/fish/Bluefish.jpg"
+    ]
 }

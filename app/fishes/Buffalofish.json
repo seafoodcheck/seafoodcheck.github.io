@@ -8,5 +8,8 @@
     "max": 0.43,
     "num": 17,
     "source": "FDA 1992-2008",
-    "mercury": 1
+    "mercury": 1,
+    "images": [
+        "img/fish/Buffalofish.jpg"
+    ]
 }

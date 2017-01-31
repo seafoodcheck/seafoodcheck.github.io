@@ -8,5 +8,8 @@
     "max": 0.083,
     "num": 90,
     "source": "FDA 2002-2010",
-    "mercury": 1
+    "mercury": 0,
+    "images": [
+        "img/fish/Sardine.jpg"
+    ]
 }

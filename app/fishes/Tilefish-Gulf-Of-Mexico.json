@@ -8,5 +8,8 @@
     "max": 3.73,
     "num": 60,
     "source": "NMFS REPORT 1978",
-    "mercury": 2
+    "mercury": 3,
+    "images": [
+        "img/fish/Tilefish (Gulf Of Mexico).jpg"
+    ]
 }

@@ -1,6 +1,6 @@
 {
-    "id": "Tuna-Fresh-frozen-Albacore",
-    "name": "Tuna (Fresh/frozen, Albacore)",
+    "id": "Tuna-Fresh-Frozen-Albacore",
+    "name": "Tuna (Fresh, Frozen, Albacore)",
     "mean": 0.358,
     "median": "0.36",
     "stdev": "0.138",
@@ -8,5 +8,8 @@
     "max": 0.82,
     "num": 43,
     "source": "FDA 1992-2008",
-    "mercury": 0
+    "mercury": 2,
+    "images": [
+        "img/fish/Tuna (Fresh, Frozen, Albacore).jpg"
+    ]
 }

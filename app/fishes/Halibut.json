@@ -8,5 +8,8 @@
     "max": 1.52,
     "num": 101,
     "source": "FDA 1992-2009",
-    "mercury": 1
+    "mercury": 1,
+    "images": [
+        "img/fish/Halibut.jpg"
+    ]
 }

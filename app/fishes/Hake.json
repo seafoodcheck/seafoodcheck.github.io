@@ -8,5 +8,8 @@
     "max": 0.378,
     "num": 49,
     "source": "FDA 1994-2009",
-    "mercury": 2
+    "mercury": 0,
+    "images": [
+        "img/fish/Hake.jpg"
+    ]
 }

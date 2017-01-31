@@ -8,5 +8,8 @@
     "max": 1.67,
     "num": 213,
     "source": "GULF OF MEXICO REPORT 2000",
-    "mercury": 1
+    "mercury": 3,
+    "images": [
+        "img/fish/Mackerel King.jpg"
+    ]
 }

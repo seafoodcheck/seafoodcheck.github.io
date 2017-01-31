@@ -8,5 +8,8 @@
     "max": 0.36,
     "num": 56,
     "source": "NMFS REPORT 1978",
-    "mercury": 2
+    "mercury": 1,
+    "images": [
+        "img/fish/Skate.jpg"
+    ]
 }

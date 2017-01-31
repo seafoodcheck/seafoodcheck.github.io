@@ -8,5 +8,8 @@
     "max": 4.54,
     "num": 356,
     "source": "FDA 1991-2007",
-    "mercury": 2
+    "mercury": 3,
+    "images": [
+        "img/fish/Shark.jpg"
+    ]
 }

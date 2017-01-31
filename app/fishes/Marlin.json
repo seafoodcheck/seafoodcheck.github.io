@@ -8,5 +8,8 @@
     "max": 0.92,
     "num": 16,
     "source": "FDA 1992-1996",
-    "mercury": 1
+    "mercury": 2,
+    "images": [
+        "img/fish/Marlin.jpg"
+    ]
 }

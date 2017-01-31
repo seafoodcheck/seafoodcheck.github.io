@@ -8,5 +8,8 @@
     "max": 1.56,
     "num": 66,
     "source": "NMFS REPORT 1978",
-    "mercury": 1
+    "mercury": 2,
+    "images": [
+        "img/fish/Mackerel Spanish (Gulf Of Mexico).jpg"
+    ]
 }

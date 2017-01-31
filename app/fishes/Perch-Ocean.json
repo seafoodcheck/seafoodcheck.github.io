@@ -1,6 +1,6 @@
 {
     "id": "Perch-Ocean",
-    "name": "Perch Ocean",
+    "name": "Perch (Ocean)",
     "mean": 0.121,
     "median": "0.102",
     "stdev": "0.125",
@@ -8,5 +8,8 @@
     "max": 0.578,
     "num": 31,
     "source": "FDA 1991-2010",
-    "mercury": 0
+    "mercury": 1,
+    "images": [
+        "img/fish/Perch (Ocean).jpg"
+    ]
 }

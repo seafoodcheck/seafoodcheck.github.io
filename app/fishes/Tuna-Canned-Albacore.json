@@ -8,5 +8,8 @@
     "max": 0.853,
     "num": 451,
     "source": "FDA 1991-2009",
-    "mercury": 1
+    "mercury": 2,
+    "images": [
+        "img/fish/Tuna (Canned, Albacore).jpg"
+    ]
 }

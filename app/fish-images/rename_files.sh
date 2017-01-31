@@ -8,11 +8,11 @@ for directory in *; do
       # i.e. there is no dot in the file name
       extension=""
     fi
-    target_filename="${directory%.*}${extension}"
-    if [ "$extension" = ".jpg" ]; then
-        # echo "${target_filename// /-}"
+    target_filename="${directory%.*}.jpg"
+    if [ "$extension" = ".jpg" -o "$extension" = ".png" -o "$extension" = ".jpeg" ]; then
+        echo "${target_filename// /-}"
         mv "$filename" "${target_filename}"
-        cp "$filename" "../../img/fish"
+        cp "${target_filename}" "../../img/fish/"
     fi
   done
   popd

@@ -8,5 +8,8 @@
     "max": 0.744,
     "num": 46,
     "source": "FDA 1991-2005",
-    "mercury": 0
+    "mercury": 1,
+    "images": [
+        "img/fish/Weakfish (Sea Trout).jpg"
+    ]
 }

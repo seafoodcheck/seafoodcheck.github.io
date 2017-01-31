@@ -1,6 +1,6 @@
 {
-    "id": "Tuna-Fresh-frozen-All",
-    "name": "Tuna (Fresh/frozen, All)",
+    "id": "Tuna-Fresh-Frozen-All",
+    "name": "Tuna (Fresh, Frozen, All)",
     "mean": 0.386,
     "median": "0.34",
     "stdev": "0.265",
@@ -8,5 +8,8 @@
     "max": 1.816,
     "num": 420,
     "source": "FDA 1991-2010",
-    "mercury": 2
+    "mercury": 2,
+    "images": [
+        "img/fish/Tuna (Fresh, Frozen, All).jpg"
+    ]
 }

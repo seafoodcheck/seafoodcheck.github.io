@@ -31,14 +31,16 @@ fs.readdirAsync = function(dirname) {
 function isDataFile(filename) {
   return (filename.split('.')[1] == 'json' 
           && filename.split('.')[0] != 'fishes'
-          && filename.split('.')[0] != 'phones_backup'
-          && filename.split('.')[0] != 'test')
+          && filename.split('.')[0] != 'fish-fda')
 }
 
-fs.writeFile('./fishes.json', '', function(){console.log('done')})
+fs.writeFile('fishes/fishes.json', '', function(){console.log('done')})
 
-fs.readdirAsync('./').then(function (filenames){
+fs.readdirAsync('fishes/').then(function (filenames){
     filenames = filenames.filter(isDataFile);
+    filenames = filenames.map(function(f) {
+      return "fishes/"+ f;
+    });
     console.log(filenames);
     return Promise.all(filenames.map(getFile));
 }).then(function (files){
@@ -51,7 +53,7 @@ fs.readdirAsync('./').then(function (filenames){
                           "id": json_file["id"]
                       });
     });
-    fs.appendFile("./fishes.json", JSON.stringify(summaryFiles, null, 4), function(err) {
+    fs.appendFile("fishes/fishes.json", JSON.stringify(summaryFiles, null, 4), function(err) {
         if(err) {
           return console.log(err);
         }

@@ -8,5 +8,8 @@
     "max": 0.533,
     "num": 32,
     "source": "FDA 1994-2004",
-    "mercury": 2
+    "mercury": 1,
+    "images": [
+        "img/fish/Tilefish (Atlantic).jpg"
+    ]
 }

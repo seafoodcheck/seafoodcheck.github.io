@@ -8,5 +8,8 @@
     "max": 0.41,
     "num": 15,
     "source": "FDA 1997",
-    "mercury": 0
+    "mercury": 1,
+    "images": [
+        "img/fish/Croaker White (Pacific).jpg"
+    ]
 }

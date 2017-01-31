@@ -8,5 +8,8 @@
     "max": 0.314,
     "num": 59,
     "source": "FDA 1991-2010",
-    "mercury": 0
+    "mercury": 0,
+    "images": [
+        "img/fish/Catfish.jpg"
+    ]
 }

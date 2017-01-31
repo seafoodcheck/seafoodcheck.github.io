@@ -1,6 +1,6 @@
 {
-    "id": "Tuna-Fresh-frozen-Yellowfin",
-    "name": "Tuna (Fresh/frozen, Yellowfin)",
+    "id": "Tuna-Fresh-Frozen-Yellowfin",
+    "name": "Tuna (Fresh, Frozen, Yellowfin)",
     "mean": 0.354,
     "median": "0.311",
     "stdev": "0.231",
@@ -8,5 +8,8 @@
     "max": 1.478,
     "num": 231,
     "source": "FDA 1993-2010",
-    "mercury": 0
+    "mercury": 2,
+    "images": [
+        "img/fish/Tuna (Fresh, Frozen, Yellowfin).jpg"
+    ]
 }

@@ -8,5 +8,8 @@
     "max": 0.033,
     "num": 39,
     "source": "FDA 1991-2009",
-    "mercury": 0
+    "mercury": 0,
+    "images": [
+        "img/fish/Scallop.jpg"
+    ]
 }
