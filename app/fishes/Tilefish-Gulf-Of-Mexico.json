@@ -1,6 +1,6 @@
 {
-    "id": "Tilefish-Gulf-Of-Mexico",
-    "name": "Tilefish (Gulf Of Mexico)",
+    "id": "Tilefish-Gulf-of-Mexico",
+    "name": "Tilefish (Gulf of Mexico)",
     "mean": 1.123,
     "median": "N/A",
     "stdev": "N/A",
@@ -10,6 +10,6 @@
     "source": "NMFS REPORT 1978",
     "mercury": 3,
     "images": [
-        "img/fish/Tilefish (Gulf Of Mexico).jpg"
+        "img/fish/Tilefish-Gulf-of-Mexico.jpg"
     ]
 }

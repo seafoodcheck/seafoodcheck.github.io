@@ -31,14 +31,18 @@ function isImgFile(filename) {
   return (filename.split('.')[1] == 'jpg')
 }
 
+
 function toTitleCase(str) {
-  return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+  // to title case except for of
+  return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();}).replace(/Of/, "of");
 }
+
 
 function spacesToLispCase(filename) {
   // Bass (Saltwater, Black, Striped) to Bass-Saltwater-Black-Striped
   return filename.match(/\w+/g).join('-')
 }
+
 
 function mercuryLevel(value) {
   // given a mean mercury level value in PPM from FDA, translate to 0 to 3
@@ -95,7 +99,7 @@ getFile('fishes/fish-fda.json').then(function (contents) {
                         "source": fish["source"],
                         "mercury": mercuryLevel(fish["mean"]),
                         "images": [
-                            "img/fish/" + fishTitle + ".jpg"
+                            "img/fish/" + filenameLispCase + ".jpg"
                         ],
                       };
     fs.writeFile('fishes/' + filenameLispCase + '.json', JSON.stringify(fishDataFile, null, 4), function(err) {

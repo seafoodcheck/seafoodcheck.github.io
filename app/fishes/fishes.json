@@ -8,13 +8,13 @@
     {
         "name": "Bass Chilean (Chilean Seabass)",
         "mercury": 2,
-        "imageUrl": "img/fish/Bass Chilean (Chilean Seabass).jpg",
+        "imageUrl": "img/fish/Bass-Chilean-Chilean-Seabass.jpg",
         "id": "Bass-Chilean-Chilean-Seabass"
     },
     {
         "name": "Bass (Saltwater, Black, Striped, Rockfish)",
         "mercury": 1,
-        "imageUrl": "img/fish/Bass (Saltwater, Black, Striped, Rockfish).jpg",
+        "imageUrl": "img/fish/Bass-Saltwater-Black-Striped-Rockfish.jpg",
         "id": "Bass-Saltwater-Black-Striped-Rockfish"
     },
     {
@@ -62,7 +62,7 @@
     {
         "name": "Crab (Blue, King, Snow)",
         "mercury": 0,
-        "imageUrl": "img/fish/Crab (Blue, King, Snow).jpg",
+        "imageUrl": "img/fish/Crab-Blue-King-Snow.jpg",
         "id": "Crab-Blue-King-Snow"
     },
     {
@@ -74,31 +74,31 @@
     {
         "name": "Croaker Atlantic (Atlantic)",
         "mercury": 0,
-        "imageUrl": "img/fish/Croaker Atlantic (Atlantic).jpg",
+        "imageUrl": "img/fish/Croaker-Atlantic-Atlantic.jpg",
         "id": "Croaker-Atlantic-Atlantic"
     },
     {
         "name": "Croaker White (Pacific)",
         "mercury": 1,
-        "imageUrl": "img/fish/Croaker White (Pacific).jpg",
+        "imageUrl": "img/fish/Croaker-White-Pacific.jpg",
         "id": "Croaker-White-Pacific"
     },
     {
         "name": "Flatfish (Flounder, Plaice, Sole)",
         "mercury": 0,
-        "imageUrl": "img/fish/Flatfish (Flounder, Plaice, Sole).jpg",
+        "imageUrl": "img/fish/Flatfish-Flounder-Plaice-Sole.jpg",
         "id": "Flatfish-Flounder-Plaice-Sole"
     },
     {
         "name": "Grouper (All Species)",
         "mercury": 2,
-        "imageUrl": "img/fish/Grouper (All Species).jpg",
+        "imageUrl": "img/fish/Grouper-All-Species.jpg",
         "id": "Grouper-All-Species"
     },
     {
         "name": "Haddock (Atlantic)",
         "mercury": 0,
-        "imageUrl": "img/fish/Haddock (Atlantic).jpg",
+        "imageUrl": "img/fish/Haddock-Atlantic.jpg",
         "id": "Haddock-Atlantic"
     },
     {
@@ -128,55 +128,55 @@
     {
         "name": "Lobster (Northern American)",
         "mercury": 1,
-        "imageUrl": "img/fish/Lobster (Northern American).jpg",
+        "imageUrl": "img/fish/Lobster-Northern-American.jpg",
         "id": "Lobster-Northern-American"
     },
     {
         "name": "Lobster (Species Unknown)",
         "mercury": 1,
-        "imageUrl": "img/fish/Lobster (Species Unknown).jpg",
+        "imageUrl": "img/fish/Lobster-Species-Unknown.jpg",
         "id": "Lobster-Species-Unknown"
     },
     {
         "name": "Lobster (Spiny)",
         "mercury": 1,
-        "imageUrl": "img/fish/Lobster (Spiny).jpg",
+        "imageUrl": "img/fish/Lobster-Spiny.jpg",
         "id": "Lobster-Spiny"
     },
     {
         "name": "Mackerel Atlantic (North Atlantic)",
         "mercury": 0,
-        "imageUrl": "img/fish/Mackerel Atlantic (North Atlantic).jpg",
+        "imageUrl": "img/fish/Mackerel-Atlantic-North-Atlantic.jpg",
         "id": "Mackerel-Atlantic-North-Atlantic"
     },
     {
         "name": "Mackerel Chub (Pacific)",
         "mercury": 0,
-        "imageUrl": "img/fish/Mackerel Chub (Pacific).jpg",
+        "imageUrl": "img/fish/Mackerel-Chub-Pacific.jpg",
         "id": "Mackerel-Chub-Pacific"
     },
     {
         "name": "Mackerel King",
         "mercury": 3,
-        "imageUrl": "img/fish/Mackerel King.jpg",
+        "imageUrl": "img/fish/Mackerel-King.jpg",
         "id": "Mackerel-King"
     },
     {
-        "name": "Mackerel Spanish (Gulf Of Mexico)",
+        "name": "Mackerel Spanish (Gulf of Mexico)",
         "mercury": 2,
-        "imageUrl": "img/fish/Mackerel Spanish (Gulf Of Mexico).jpg",
-        "id": "Mackerel-Spanish-Gulf-Of-Mexico"
+        "imageUrl": "img/fish/Mackerel-Spanish-Gulf-of-Mexico.jpg",
+        "id": "Mackerel-Spanish-Gulf-of-Mexico"
     },
     {
         "name": "Mackerel Spanish (South Atlantic)",
         "mercury": 1,
-        "imageUrl": "img/fish/Mackerel Spanish (South Atlantic).jpg",
+        "imageUrl": "img/fish/Mackerel-Spanish-South-Atlantic.jpg",
         "id": "Mackerel-Spanish-South-Atlantic"
     },
     {
         "name": "Mahi Mahi",
         "mercury": 1,
-        "imageUrl": "img/fish/Mahi Mahi.jpg",
+        "imageUrl": "img/fish/Mahi-Mahi.jpg",
         "id": "Mahi-Mahi"
     },
     {
@@ -200,7 +200,7 @@
     {
         "name": "Orange Roughy",
         "mercury": 3,
-        "imageUrl": "img/fish/Orange Roughy.jpg",
+        "imageUrl": "img/fish/Orange-Roughy.jpg",
         "id": "Orange-Roughy"
     },
     {
@@ -212,13 +212,13 @@
     {
         "name": "Perch (Freshwater)",
         "mercury": 1,
-        "imageUrl": "img/fish/Perch (Freshwater).jpg",
+        "imageUrl": "img/fish/Perch-Freshwater.jpg",
         "id": "Perch-Freshwater"
     },
     {
         "name": "Perch (Ocean)",
         "mercury": 1,
-        "imageUrl": "img/fish/Perch (Ocean).jpg",
+        "imageUrl": "img/fish/Perch-Ocean.jpg",
         "id": "Perch-Ocean"
     },
     {
@@ -242,13 +242,13 @@
     {
         "name": "Salmon (Canned)",
         "mercury": 0,
-        "imageUrl": "img/fish/Salmon (Canned).jpg",
+        "imageUrl": "img/fish/Salmon-Canned.jpg",
         "id": "Salmon-Canned"
     },
     {
         "name": "Salmon (Fresh, Frozen)",
         "mercury": 0,
-        "imageUrl": "img/fish/Salmon (Fresh, Frozen).jpg",
+        "imageUrl": "img/fish/Salmon-Fresh-Frozen.jpg",
         "id": "Salmon-Fresh-Frozen"
     },
     {
@@ -326,73 +326,73 @@
     {
         "name": "Tilefish (Atlantic)",
         "mercury": 1,
-        "imageUrl": "img/fish/Tilefish (Atlantic).jpg",
+        "imageUrl": "img/fish/Tilefish-Atlantic.jpg",
         "id": "Tilefish-Atlantic"
     },
     {
-        "name": "Tilefish (Gulf Of Mexico)",
+        "name": "Tilefish (Gulf of Mexico)",
         "mercury": 3,
-        "imageUrl": "img/fish/Tilefish (Gulf Of Mexico).jpg",
-        "id": "Tilefish-Gulf-Of-Mexico"
+        "imageUrl": "img/fish/Tilefish-Gulf-of-Mexico.jpg",
+        "id": "Tilefish-Gulf-of-Mexico"
     },
     {
         "name": "Trout (Freshwater)",
         "mercury": 0,
-        "imageUrl": "img/fish/Trout (Freshwater).jpg",
+        "imageUrl": "img/fish/Trout-Freshwater.jpg",
         "id": "Trout-Freshwater"
     },
     {
         "name": "Tuna (Canned, Albacore)",
         "mercury": 2,
-        "imageUrl": "img/fish/Tuna (Canned, Albacore).jpg",
+        "imageUrl": "img/fish/Tuna-Canned-Albacore.jpg",
         "id": "Tuna-Canned-Albacore"
     },
     {
         "name": "Tuna (Canned, Light)",
         "mercury": 1,
-        "imageUrl": "img/fish/Tuna (Canned, Light).jpg",
+        "imageUrl": "img/fish/Tuna-Canned-Light.jpg",
         "id": "Tuna-Canned-Light"
     },
     {
         "name": "Tuna (Fresh, Frozen, Albacore)",
         "mercury": 2,
-        "imageUrl": "img/fish/Tuna (Fresh, Frozen, Albacore).jpg",
+        "imageUrl": "img/fish/Tuna-Fresh-Frozen-Albacore.jpg",
         "id": "Tuna-Fresh-Frozen-Albacore"
     },
     {
         "name": "Tuna (Fresh, Frozen, All)",
         "mercury": 2,
-        "imageUrl": "img/fish/Tuna (Fresh, Frozen, All).jpg",
+        "imageUrl": "img/fish/Tuna-Fresh-Frozen-All.jpg",
         "id": "Tuna-Fresh-Frozen-All"
     },
     {
         "name": "Tuna (Fresh, Frozen, Bigeye)",
         "mercury": 3,
-        "imageUrl": "img/fish/Tuna (Fresh, Frozen, Bigeye).jpg",
+        "imageUrl": "img/fish/Tuna-Fresh-Frozen-Bigeye.jpg",
         "id": "Tuna-Fresh-Frozen-Bigeye"
     },
     {
         "name": "Tuna (Fresh, Frozen, Skipjack)",
         "mercury": 1,
-        "imageUrl": "img/fish/Tuna (Fresh, Frozen, Skipjack).jpg",
+        "imageUrl": "img/fish/Tuna-Fresh-Frozen-Skipjack.jpg",
         "id": "Tuna-Fresh-Frozen-Skipjack"
     },
     {
         "name": "Tuna (Fresh, Frozen, Species Unknown)",
         "mercury": 2,
-        "imageUrl": "img/fish/Tuna (Fresh, Frozen, Species Unknown).jpg",
+        "imageUrl": "img/fish/Tuna-Fresh-Frozen-Species-Unknown.jpg",
         "id": "Tuna-Fresh-Frozen-Species-Unknown"
     },
     {
         "name": "Tuna (Fresh, Frozen, Yellowfin)",
         "mercury": 2,
-        "imageUrl": "img/fish/Tuna (Fresh, Frozen, Yellowfin).jpg",
+        "imageUrl": "img/fish/Tuna-Fresh-Frozen-Yellowfin.jpg",
         "id": "Tuna-Fresh-Frozen-Yellowfin"
     },
     {
         "name": "Weakfish (Sea Trout)",
         "mercury": 1,
-        "imageUrl": "img/fish/Weakfish (Sea Trout).jpg",
+        "imageUrl": "img/fish/Weakfish-Sea-Trout.jpg",
         "id": "Weakfish-Sea-Trout"
     },
     {
