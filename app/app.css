@@ -26,6 +26,10 @@ h1 {
   width: 100px;
 }
 
+.title {
+  font-size: 210%
+}
+
 /* View: Phone detail */
 .phone {
   background-color: white;
