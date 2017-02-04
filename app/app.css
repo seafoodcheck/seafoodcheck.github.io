@@ -1,11 +1,80 @@
 body {
   padding: 20px;
+  /*background: #343d46;*/
 }
 
 h1 {
   border-bottom: 1px solid gray;
   margin-top: 0;
 }
+ 
+.box{
+  margin: 5px auto;
+  height: 50px;
+  padding-left: 40px;
+}
+
+.container-1{
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+}
+
+.container-1 .icon{
+  position: absolute;
+  top: 50%;
+  margin-left: 10px;
+  margin-top: -10px;
+  z-index: 1;
+  color: #4f5b66;
+}
+
+.container-1 .input{
+  background-position: 0px -32px;
+}
+
+.container-1 input#search{
+  width: 300px;
+  height: 50px;
+  background: #2549b1;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #262626;
+  padding-left: 45px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+ 
+   
+    -webkit-transition: background .55s ease;
+  -moz-transition: background .55s ease;
+  -ms-transition: background .55s ease;
+  -o-transition: background .55s ease;
+  transition: background .55s ease;
+}
+
+.container-1 input#search::-webkit-input-placeholder {
+   color: #65737e;
+}
+ 
+.container-1 input#search:-moz-placeholder { /* Firefox 18- */
+   color: #65737e;  
+}
+ 
+.container-1 input#search::-moz-placeholder {  /* Firefox 19+ */
+   color: #65737e;  
+}
+ 
+.container-1 input#search:-ms-input-placeholder {  
+   color: #65737e;  
+}
+
+
+.container-1 input#search:hover, .container-1 input#search:focus, .container-1 input#search:active{
+    outline:none;
+    background: #ffffff;
+  }
 
 /* View: Phone list */
 .phones {
@@ -14,8 +83,8 @@ h1 {
 
 .phones li {
   clear: both;
-  height: 115px;
-  padding-top: 15px;
+  height: 120px;
+  padding-top: 20px;
 }
 
 .thumb {
