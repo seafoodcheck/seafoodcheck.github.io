@@ -9,9 +9,9 @@ h1 {
 }
  
 .box{
-  margin: 5px auto;
+  margin: auto;
   height: 50px;
-  padding-left: 40px;
+  padding-left: 0px;
 }
 
 .container-1{
@@ -87,12 +87,17 @@ h1 {
   padding-top: 20px;
 }
 
+.thumbnail {
+  margin-left: -40px;
+}
+
 .thumb {
   float: left;
-  height: 100px;
+  height: 40px;
   margin: 0em 1em 1.5em 0.5em;
   padding-bottom: 1em;
   width: 100px;
+  object-fit: contain;
 }
 
 .rating {
