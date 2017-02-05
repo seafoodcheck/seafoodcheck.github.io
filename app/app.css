@@ -90,13 +90,22 @@ h1 {
 .thumb {
   float: left;
   height: 100px;
-  margin: -0.5em 1em 1.5em 0;
+  margin: 0em 1em 1.5em 0.5em;
   padding-bottom: 1em;
   width: 100px;
 }
 
+.rating {
+  float: left;
+  height: 50px;
+  margin: -0.5em 1em 1.5em -0.5em;
+  padding-top: 0.5em;
+  width: 100px;
+}
+
 .title {
-  font-size: 210%
+  font-size: 100%;
+  padding-bottom: 1em;
 }
 
 /* View: Phone detail */

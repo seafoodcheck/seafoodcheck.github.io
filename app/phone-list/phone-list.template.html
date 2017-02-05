@@ -30,14 +30,21 @@
       <ul class="phones">
         <li ng-repeat="phone in $ctrl.phones | filter:$ctrl.query | orderBy:$ctrl.orderProp"
             class="thumbnail phone-list-item">
-          <a href="#!/seafood/{{phone.id}}" class="thumb">
-            <img ng-src="{{phone.imageUrl}}" alt="{{phone.name}}" />
-          </a>
-          <a href="#!/seafood/{{phone.id}}" class="title">{{phone.name}}</a>
-<!--           <p>{{phone.mercury}}</p> -->
-          <a href="#!/seafood/{{phone.id}}" class="thumb">
-            <img ng-src="/img/rating/{{phone.mercury}}.png" alt="{{phone.name}}" />
-          </a>
+          <div class="row">
+            <div class="col-md-4">
+              <a href="#!/seafood/{{phone.id}}" class="thumb">
+                <img ng-src="{{phone.imageUrl}}" alt="{{phone.name}}" />
+              </a>
+            </div>
+            <div class="col-md-4">
+              <a href="#!/seafood/{{phone.id}}" class="title">{{phone.name}}</a>
+            </div>
+            <div class="col-md-4">
+              <a href="#!/seafood/{{phone.id}}" class="rating">
+                <img ng-src="/img/rating/{{phone.mercury}}.png" alt="{{phone.name}}" />
+              </a>
+            </div>
+          </div>
         </li>
       </ul>
   </div>
