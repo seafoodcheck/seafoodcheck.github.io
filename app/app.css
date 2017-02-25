@@ -143,6 +143,17 @@ h1 {
   width: 450px;
 }
 
+.fish-detail-container {
+  background-color: white;
+  margin-top: 50px;
+}
+
+.about-container {
+  background-color: white;
+  margin-top: 50px;
+  margin: 5px;
+}
+
 .phone-thumbs {
   list-style: none;
   margin: 0;
@@ -182,4 +193,9 @@ h1 {
 .specs > li > span {
   font-size: 1.2em;
   font-weight: bold;
+}
+
+
+.footer-box {
+  margin-bottom: -10px;
 }

@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="app.css" />
     <link rel="stylesheet" href="app.animations.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="apple-touch-icon" sizes="57x57" href="img/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="img/icons/apple-icon-60x60.png">
@@ -41,7 +42,41 @@
     <script src="phone-list/phone-list.component.js"></script>
     <script src="phone-detail/phone-detail.module.js"></script>
     <script src="phone-detail/phone-detail.component.js"></script>
+    <script src="phone-about/phone-about.module.js"></script>
+    <script src="phone-about/phone-about.component.js"></script>
   </head>
+
+  <header class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+    <!-- Fixed navbar -->
+     <div class="navbar navbar-invserse navbar-fixed-top" role="navigation">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <a class="navbar-brand" href="/">SeafoodCheck</a>
+         </div>
+         <div class="navbar-collapse collapse" style="background:black">
+           <ul class="nav navbar-nav navbar-left">
+             <!-- <li class="active"><a href="/">Home</a></li> -->
+             <li><a href="/">Home</a></li>
+             <li><a href='https://itunes.apple.com/us/app/fishtoxicity/id1078063422?ls=1&mt=8'>iOS App</a></li>
+             <li class="dropdown">
+               <a href="/apps" class="dropdown-toggle" data-toggle="dropdown">Links<b class="caret"></b></a>
+               <ul class="dropdown-menu">
+                 <li><a href='https://www.nrdc.org/stories/mercury-guide'>NRDC Mercury Guide</a></li>
+                 <li><a href='https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm393070.htm'>FDA & EPA Guide</a></li>
+               </ul>
+             </li>
+             <li><a href="/#!/about">About</a></li>    
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </div>
+  </header>
+
   <body>
 
     <div class="view-container">
@@ -49,6 +84,22 @@
     </div>
 
   </body>
+
+  <footer class="footer">
+  <div class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+    <div class="container footer-box">
+      <div class="navbar-text pull-left">
+        <p>Designed and built by <a href='http://yaoyuyang.com'>Yaoyu Yang</a></p>
+      </div>
+      <div class="navbar-text pull-right">
+        <a href="https://www.facebook.com/seafoodcheck"><i style='margin-right:4px' class="fa fa-facebook-square fa-2x"></i></a>
+        <a href="https://twitter.com/seafoodcheck"><i style='margin-right:4px' class="fa fa-twitter fa-2x"></i></a>
+        <a href="https://github.com/yaoyuyang/seafoodcheck"><i class="fa fa-github fa-2x"></i></a>
+      </div>
+    </div>
+  </div>
+  </footer>
+
 </html>
 
 <script>
@@ -60,4 +111,14 @@
   ga('create', 'UA-92172405-1', 'auto');
   ga('send', 'pageview');
 
+</script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script> 
+$(document).on('click','.navbar-collapse.in',function(e) {
+
+    if( $(e.target).is('a') && ( $(e.target).attr('class') != 'dropdown-toggle' ) ) {
+        $(this).collapse('hide');
+    }
+
+});
 </script>
