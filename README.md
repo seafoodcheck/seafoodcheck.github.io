@@ -14,3 +14,7 @@ Check out [FishToxicity app](https://itunes.apple.com/us/app/fishtoxicity/id1078
 
 ## Reference
 [angular-phonecat](https://github.com/angular/angular-phonecat)
+
+## Contribute
+
+SeafoodCheck is an open source project. Everyone is welcome to contribute! To contribute, submit an issue for a feature request or fork and submit a pull request.
