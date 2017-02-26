@@ -199,3 +199,10 @@ h1 {
 .footer-box {
   margin-bottom: -10px;
 }
+
+.navbar-fixed-bottom {
+    padding-top:0 !important; 
+    padding-bottom:0 !important;
+    height: 28px;
+}
+/*.navbar {min-height:28px !important;}*/
