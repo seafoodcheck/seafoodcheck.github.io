@@ -4,8 +4,38 @@
       ng-repeat="img in $ctrl.phone.images" />
   <h1>{{$ctrl.phone.name}}</h1>
 
-  <p>{{$ctrl.phone.description}}</p>
+  <div class="row">
+    <div class="col-md-6">
+      <h3>Mercury level: {{$ctrl.ratingText[$ctrl.phone.mercury]}}</h3>
+    </div>
+    <div class="col-md-6 rating-detail-img">
+      <img ng-src="/img/rating/{{$ctrl.phone.mercury}}.png" class="img-responsive center-block" alt="{{$ctrl.phone.name}}" />
+    </div>
+  </div>
 
-  <img ng-src="/img/rating/{{$ctrl.phone.mercury}}.png" class="img-responsive" alt="{{$ctrl.phone.name}}" />
+  <div class="panel panel-default">
+    <div class="panel-heading">FDA mercury monitering data (Conc: Concentration with unit <a href="https://en.wikipedia.org/wiki/Parts-per_notation" target="_blank">PPM</a>)</div>
+      <table class="table">
+        <tr>
+         <td>No. of Samples</td>
+         <td>Mercury Conc Mean</td>
+         <td>Mercury Conc Standard Deviation</td>
+         <td>Mercury Conc Min</td>
+         <td>Mercury Conc Max</td>
+        </tr>
+        <tr>
+          <td>{{ $ctrl.phone.num }}</td>
+          <td>{{ $ctrl.phone.mean }}</td>
+          <td>{{ $ctrl.phone.stdev }}</td>
+          <td>{{ $ctrl.phone.min }}</td>
+          <td>{{ $ctrl.phone.max }}</td>
+        </tr>
+      </table>
+  </div>
+
+  <div class="fish-detail-description">
+    <p>{{$ctrl.phone.description}}</p>
+  </div>
+
 </div>
 

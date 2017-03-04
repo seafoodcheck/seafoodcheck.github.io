@@ -8,6 +8,10 @@ h1 {
   margin-top: 0;
 }
 
+p {
+  font-size: large;
+}
+
 .text-centered {
     text-align:center;
 }
@@ -113,6 +117,12 @@ h1 {
   width: 100px;
 }
 
+.rating-detail-img {
+  float: center;
+  width: 250px;
+}
+
+
 .title {
   font-size: 100%;
   padding-bottom: 1em;
@@ -146,6 +156,7 @@ h1 {
 .fish-detail-container {
   background-color: white;
   margin-top: 50px;
+  margin-bottom: 40px;
 }
 
 .about-container {

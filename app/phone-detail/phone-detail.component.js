@@ -15,6 +15,12 @@ angular.
         self.setImage = function setImage(imageUrl) {
           self.mainImageUrl = imageUrl;
         };
+        self.ratingText = {
+          "0": "LEAST MERCURY",
+          "1": "MODERATE MERCURY",
+          "2": "HIGH MERCURY",
+          "3": "HIGHEST MERCURY"
+        };
       }
     ]
   });
