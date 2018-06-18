@@ -1,0 +1,15 @@
+{
+    "id": "Squid",
+    "name": "Squid",
+    "mean": 0.024,
+    "median": "0.017",
+    "stdev": "0.023",
+    "min": "ND",
+    "max": 0.07,
+    "num": 36,
+    "source": "FDA 2005-2009",
+    "mercury": 0,
+    "images": [
+        "img/fish/Squid.jpg"
+    ]
+}

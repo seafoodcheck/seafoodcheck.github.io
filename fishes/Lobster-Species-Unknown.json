@@ -1,0 +1,15 @@
+{
+    "id": "Lobster-Species-Unknown",
+    "name": "Lobster (Species Unknown)",
+    "mean": 0.166,
+    "median": "0.143",
+    "stdev": "0.099",
+    "min": "ND",
+    "max": 0.451,
+    "num": 71,
+    "source": "FDA 1991-2008",
+    "mercury": 1,
+    "images": [
+        "img/fish/Lobster-Species-Unknown.jpg"
+    ]
+}

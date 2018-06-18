@@ -1,0 +1,15 @@
+{
+    "id": "Salmon-Canned",
+    "name": "Salmon (Canned)",
+    "mean": 0.014,
+    "median": "0.01",
+    "stdev": "0.021",
+    "min": "ND",
+    "max": 0.086,
+    "num": 19,
+    "source": "FDA 1993-2009",
+    "mercury": 0,
+    "images": [
+        "img/fish/Salmon-Canned.jpg"
+    ]
+}

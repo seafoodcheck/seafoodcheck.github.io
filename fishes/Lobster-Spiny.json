@@ -1,0 +1,15 @@
+{
+    "id": "Lobster-Spiny",
+    "name": "Lobster (Spiny)",
+    "mean": 0.093,
+    "median": "0.062",
+    "stdev": "0.097",
+    "min": "ND",
+    "max": 0.27,
+    "num": 13,
+    "source": "FDA 1991-2005",
+    "mercury": 1,
+    "images": [
+        "img/fish/Lobster-Spiny.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "Catfish",
+    "name": "Catfish",
+    "mean": 0.024,
+    "median": "0.005",
+    "stdev": "0.056",
+    "min": "ND",
+    "max": 0.314,
+    "num": 59,
+    "source": "FDA 1991-2010",
+    "mercury": 0,
+    "images": [
+        "img/fish/Catfish.jpg"
+    ]
+}

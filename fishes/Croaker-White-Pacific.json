@@ -1,0 +1,15 @@
+{
+    "id": "Croaker-White-Pacific",
+    "name": "Croaker White (Pacific)",
+    "mean": 0.287,
+    "median": "0.28",
+    "stdev": "0.069",
+    "min": "0.18",
+    "max": 0.41,
+    "num": 15,
+    "source": "FDA 1997",
+    "mercury": 1,
+    "images": [
+        "img/fish/Croaker-White-Pacific.jpg"
+    ]
+}

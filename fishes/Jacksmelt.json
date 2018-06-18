@@ -1,0 +1,15 @@
+{
+    "id": "Jacksmelt",
+    "name": "Jacksmelt",
+    "mean": 0.081,
+    "median": "0.05",
+    "stdev": "0.103",
+    "min": "0.011",
+    "max": 0.5,
+    "num": 23,
+    "source": "FDA 1997-2007",
+    "mercury": 0,
+    "images": [
+        "img/fish/Jacksmelt.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "Herring",
+    "name": "Herring",
+    "mean": 0.078,
+    "median": "0.042",
+    "stdev": "0.128",
+    "min": "ND",
+    "max": 0.56,
+    "num": 27,
+    "source": "FDA 2005-2012",
+    "mercury": 0,
+    "images": [
+        "img/fish/Herring.jpg"
+    ]
+}

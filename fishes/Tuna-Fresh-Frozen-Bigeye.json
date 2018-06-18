@@ -1,0 +1,15 @@
+{
+    "id": "Tuna-Fresh-Frozen-Bigeye",
+    "name": "Tuna (Fresh, Frozen, Bigeye)",
+    "mean": 0.689,
+    "median": "0.56",
+    "stdev": "0.341",
+    "min": "0.128",
+    "max": 1.816,
+    "num": 21,
+    "source": "FDA 1993-2005",
+    "mercury": 3,
+    "images": [
+        "img/fish/Tuna-Fresh-Frozen-Bigeye.jpg"
+    ]
+}

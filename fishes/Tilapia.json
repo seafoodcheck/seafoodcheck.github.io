@@ -1,0 +1,15 @@
+{
+    "id": "Tilapia",
+    "name": "Tilapia",
+    "mean": 0.013,
+    "median": "0.004",
+    "stdev": "0.023",
+    "min": "ND",
+    "max": 0.084,
+    "num": 32,
+    "source": "FDA 1991-2008",
+    "mercury": 0,
+    "images": [
+        "img/fish/Tilapia.jpg"
+    ]
+}

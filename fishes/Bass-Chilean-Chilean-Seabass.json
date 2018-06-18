@@ -1,0 +1,15 @@
+{
+    "id": "Bass-Chilean-Chilean-Seabass",
+    "name": "Bass Chilean (Chilean Seabass)",
+    "mean": 0.354,
+    "median": "0.303",
+    "stdev": "0.299",
+    "min": "ND",
+    "max": 2.18,
+    "num": 74,
+    "source": "FDA 1994-2010",
+    "mercury": 2,
+    "images": [
+        "img/fish/Bass-Chilean-Chilean-Seabass.jpg"
+    ]
+}

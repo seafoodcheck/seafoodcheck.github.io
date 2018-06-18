@@ -1,0 +1,15 @@
+{
+    "id": "Oyster",
+    "name": "Oyster",
+    "mean": 0.012,
+    "median": "ND",
+    "stdev": "0.035",
+    "min": "ND",
+    "max": 0.25,
+    "num": 61,
+    "source": "FDA 1991-2009",
+    "mercury": 0,
+    "images": [
+        "img/fish/Oyster.jpg"
+    ]
+}

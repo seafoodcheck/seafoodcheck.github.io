@@ -1,0 +1,15 @@
+{
+    "id": "Lobster-Northern-American",
+    "name": "Lobster (Northern American)",
+    "mean": 0.107,
+    "median": "0.086",
+    "stdev": "0.076",
+    "min": "ND",
+    "max": 0.23,
+    "num": 9,
+    "source": "FDA 2005-2007",
+    "mercury": 1,
+    "images": [
+        "img/fish/Lobster-Northern-American.jpg"
+    ]
+}

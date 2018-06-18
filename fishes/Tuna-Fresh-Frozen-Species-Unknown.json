@@ -1,0 +1,15 @@
+{
+    "id": "Tuna-Fresh-Frozen-Species-Unknown",
+    "name": "Tuna (Fresh, Frozen, Species Unknown)",
+    "mean": 0.41,
+    "median": "0.334",
+    "stdev": "0.308",
+    "min": "ND",
+    "max": 1.3,
+    "num": 122,
+    "source": "FDA 1991-2010",
+    "mercury": 2,
+    "images": [
+        "img/fish/Tuna-Fresh-Frozen-Species-Unknown.jpg"
+    ]
+}

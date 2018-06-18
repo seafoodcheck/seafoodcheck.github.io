@@ -1,0 +1,15 @@
+{
+    "id": "Tuna-Fresh-Frozen-Skipjack",
+    "name": "Tuna (Fresh, Frozen, Skipjack)",
+    "mean": 0.144,
+    "median": "0.15",
+    "stdev": "0.119",
+    "min": "0.022",
+    "max": 0.26,
+    "num": 3,
+    "source": "FDA 1993-2007",
+    "mercury": 1,
+    "images": [
+        "img/fish/Tuna-Fresh-Frozen-Skipjack.jpg"
+    ]
+}

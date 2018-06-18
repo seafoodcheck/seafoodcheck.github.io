@@ -1,0 +1,16 @@
+{
+    "id": "Grouper-All-Species",
+    "name": "Grouper (All Species)",
+    "mean": 0.448,
+    "median": "0.399",
+    "stdev": "0.278",
+    "min": "0.006",
+    "max": 1.205,
+    "num": 53,
+    "source": "FDA 1991-2005",
+    "mercury": 2,
+    "description": "Groupers are teleosts, typically having a stout body and a large mouth. They are not built for long-distance, fast swimming. They can be quite large, and lengths over a meter and weights up to 100 kg are not uncommon, though obviously in such a large group, species vary considerably. They swallow prey rather than biting pieces off it. They do not have many teeth on the edges of their jaws, but they have heavy crushing tooth plates inside the pharynx. They habitually eat fish, octopuses, and crustaceans. Some species prefer to ambush their prey, while other species are active predators. Their mouths and gills form a powerful sucking system that sucks their prey in from a distance. They also use their mouths to dig into sand to form their shelters under big rocks, jetting it out through their gills.",
+    "images": [
+        "img/fish/Grouper-All-Species.jpg"
+    ]
+}

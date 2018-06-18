@@ -1,0 +1,15 @@
+{
+    "id": "Sardine",
+    "name": "Sardine",
+    "mean": 0.013,
+    "median": "0.01",
+    "stdev": "0.015",
+    "min": "ND",
+    "max": 0.083,
+    "num": 90,
+    "source": "FDA 2002-2010",
+    "mercury": 0,
+    "images": [
+        "img/fish/Sardine.jpg"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": "Croaker-Atlantic-Atlantic",
+    "name": "Croaker Atlantic (Atlantic)",
+    "mean": 0.069,
+    "median": "0.06",
+    "stdev": "0.049",
+    "min": "ND",
+    "max": 0.193,
+    "num": 90,
+    "source": "FDA 2002-2011",
+    "mercury": 0,
+    "images": [
+        "img/fish/Croaker-Atlantic-Atlantic.jpg"
+    ]
+}

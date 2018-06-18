@@ -1,0 +1,56 @@
+<div class="container-fluid">
+  <div class="row">
+    <!-- <div class="col-md-2"> -->
+      <!--Sidebar content-->
+      <div class="box">
+        <div class="container-1 text-centered">
+          <h3>Seafood Mercury Level</h3>
+        </div>
+      </div>
+      <div class="box">
+        <div class="container-1">
+          <input type="text" class="form-control" placeholder="Search Seafood Name" ng-model="$ctrl.query" />
+        </div>
+      </div>
+
+<!--       <div class="box">
+        <div class="container-1">
+            <span class="icon"><i class="fa fa-search"></i></span>
+            <input type="search" id="search" placeholder="Type Seafood Name" ng-model="$ctrl.query" />
+        </div>
+      </div> -->
+
+      <div class="box">
+        <!-- <span>Sort by</span> -->
+        <select ng-model="$ctrl.orderProp" class="form-control">
+          <option value="name">Alphabetical</option>
+          <option value="mercury">Mercury Level</option>
+        </select>
+      </div>
+
+    <!-- </div> -->
+    
+      <!--Body content-->
+
+      <ul class="phones">
+        <li ng-repeat="phone in $ctrl.phones | filter:$ctrl.query | orderBy:$ctrl.orderProp"
+            class="thumbnail phone-list-item">
+          <div class="row">
+            <div class="col-md-4">
+              <a href="#!/seafood/{{phone.id}}" class="thumb">
+                <img ng-src="{{phone.imageUrl}}" alt="{{phone.name}}" />
+              </a>
+            </div>
+            <div class="col-md-4">
+              <a href="#!/seafood/{{phone.id}}" class="title">{{phone.name}}</a>
+            </div>
+            <div class="col-md-4">
+              <a href="#!/seafood/{{phone.id}}" class="rating">
+                <img ng-src="/img/rating/{{phone.mercury}}.png" alt="mercury level {{phone.mercury}}" />
+              </a>
+            </div>
+          </div>
+        </li>
+      </ul>
+  </div>
+</div>

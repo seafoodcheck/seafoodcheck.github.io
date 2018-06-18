@@ -1,0 +1,15 @@
+{
+    "id": "Crab-Blue-King-Snow",
+    "name": "Crab (Blue, King, Snow)",
+    "mean": 0.065,
+    "median": "0.05",
+    "stdev": "0.096",
+    "min": "ND",
+    "max": 0.61,
+    "num": 93,
+    "source": "FDA 1991-2009",
+    "mercury": 0,
+    "images": [
+        "img/fish/Crab-Blue-King-Snow.jpg"
+    ]
+}

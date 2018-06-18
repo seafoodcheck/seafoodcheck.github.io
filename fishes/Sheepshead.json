@@ -1,0 +1,15 @@
+{
+    "id": "Sheepshead",
+    "name": "Sheepshead",
+    "mean": 0.09,
+    "median": "0.08",
+    "stdev": "0.05",
+    "min": "ND",
+    "max": 0.17,
+    "num": 8,
+    "source": "FDA 1992-2007",
+    "mercury": 1,
+    "images": [
+        "img/fish/Sheepshead.jpg"
+    ]
+}

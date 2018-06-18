@@ -1,0 +1,15 @@
+{
+    "id": "Sablefish",
+    "name": "Sablefish",
+    "mean": 0.361,
+    "median": "0.265",
+    "stdev": "0.241",
+    "min": "0.09",
+    "max": 1.052,
+    "num": 26,
+    "source": "FDA 2004-2009",
+    "mercury": 2,
+    "images": [
+        "img/fish/Sablefish.jpg"
+    ]
+}

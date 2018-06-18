@@ -1,0 +1,15 @@
+{
+    "id": "Tuna-Canned-Albacore",
+    "name": "Tuna (Canned, Albacore)",
+    "mean": 0.35,
+    "median": "0.338",
+    "stdev": "0.128",
+    "min": "ND",
+    "max": 0.853,
+    "num": 451,
+    "source": "FDA 1991-2009",
+    "mercury": 2,
+    "images": [
+        "img/fish/Tuna-Canned-Albacore.jpg"
+    ]
+}

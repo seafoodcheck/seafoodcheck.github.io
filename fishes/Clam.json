@@ -1,0 +1,15 @@
+{
+    "id": "Clam",
+    "name": "Clam",
+    "mean": 0.009,
+    "median": "0.002",
+    "stdev": "0.011",
+    "min": "ND",
+    "max": 0.028,
+    "num": 15,
+    "source": "FDA 1991-2010",
+    "mercury": 0,
+    "images": [
+        "img/fish/Clam.jpg"
+    ]
+}

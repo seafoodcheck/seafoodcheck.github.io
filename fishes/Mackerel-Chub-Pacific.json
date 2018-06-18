@@ -1,0 +1,15 @@
+{
+    "id": "Mackerel-Chub-Pacific",
+    "name": "Mackerel Chub (Pacific)",
+    "mean": 0.088,
+    "median": "N/A",
+    "stdev": "N/A",
+    "min": "0.03",
+    "max": 0.19,
+    "num": 30,
+    "source": "NMFS REPORT 1978",
+    "mercury": 0,
+    "images": [
+        "img/fish/Mackerel-Chub-Pacific.jpg"
+    ]
+}
