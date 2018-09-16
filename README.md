@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application aims to provide a quick and accurate reference for checking mercury level for seafood with trustworthy data obtained from FDA.
+This application aims to provide a quick and accurate reference for checking mercury level for seafood with trustworthy data obtained from [FDA](https://www.fda.gov/Food/ResourcesForYou/Consumers/ucm393070.htm).
 
 ## Web App
 
