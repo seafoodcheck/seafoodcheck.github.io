@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" ng-app="phonecatApp">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>SeafoodCheck</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="app.css" />
+    <link rel="stylesheet" href="app.animations.css" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="57x57" href="img/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="img/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-animate/angular-animate.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-route/angular-route.js"></script>
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="app.animations.js"></script>
+    <script src="core/core.module.js"></script>
+    <script src="core/checkmark/checkmark.filter.js"></script>
+    <script src="core/phone/phone.module.js"></script>
+    <script src="core/phone/phone.service.js"></script>
+    <script src="phone-list/phone-list.module.js"></script>
+    <script src="phone-list/phone-list.component.js"></script>
+    <script src="phone-detail/phone-detail.module.js"></script>
+    <script src="phone-detail/phone-detail.component.js"></script>
+    <script src="phone-about/phone-about.module.js"></script>
+    <script src="phone-about/phone-about.component.js"></script>
+  </head>
+
+  <header class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+    <!-- Fixed navbar -->
+     <div class="navbar navbar-invserse navbar-fixed-top" role="navigation">
+       <div class="container">
+         <div class="navbar-header">
+           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+           <a class="navbar-brand" href="/seafoodcheck">SeafoodCheck</a>
+         </div>
+         <div class="navbar-collapse collapse" style="background:black">
+           <ul class="nav navbar-nav navbar-left">
+             <!-- <li class="active"><a href="/">Home</a></li> -->
+             <li><a href="/seafoodcheck">Home</a></li>
+             <li><a href="https://itunes.apple.com/us/app/fishtoxicity/id1078063422?mt=8">iOS App</a></li>
+             <li class="dropdown">
+               <a href="/seafoodcheck" class="dropdown-toggle" data-toggle="dropdown">Links<b class="caret"></b></a>
+               <ul class="dropdown-menu">
+                 <li><a href='https://www.nrdc.org/stories/mercury-guide'>NRDC Mercury Guide</a></li>
+                 <li><a href='https://www.fda.gov/Food/FoodborneIllnessContaminants/Metals/ucm393070.htm'>FDA & EPA Guide</a></li>
+                 <li><a href='https://www.fda.gov/downloads/Food/FoodborneIllnessContaminants/Metals/UCM536321.pdf'>FDA & EPA Flyer</a></li>
+               </ul>
+             </li>
+             <li><a href="/seafoodcheck/#!/about">About</a></li>    
+           </ul>
+         </div><!--/.nav-collapse -->
+       </div>
+     </div>
+  </header>
+
+  <body>
+
+    <div class="view-container">
+      <div ng-view class="view-frame"></div>
+    </div>
+
+  </body>
+
+  <footer class="footer">
+  <div class="navbar navbar-default navbar-fixed-bottom" role="navigation">
+    <div class="container footer-box">
+      <div class="navbar-text pull-left">
+        By <a href='http://yaoyuyang.com'>Yaoyu Yang</a>
+      </div>
+      <div class="navbar-text pull-right">
+        <a href="https://www.facebook.com/seafoodcheck"><i style='margin-right:4px' class="fa fa-facebook-square fa-2x"></i></a>
+        <a href="https://twitter.com/seafoodcheck"><i style='margin-right:4px' class="fa fa-twitter fa-2x"></i></a>
+        <a href="https://github.com/yaoyuyang/seafoodcheck"><i class="fa fa-github fa-2x"></i></a>
+      </div>
+    </div>
+  </div>
+  </footer>
+
+</html>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92172405-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script> 
+$(document).on('click','.navbar-collapse.in',function(e) {
+
+    if( $(e.target).is('a') && ( $(e.target).attr('class') != 'dropdown-toggle' ) ) {
+        $(this).collapse('hide');
+    }
+
+});
+</script>
